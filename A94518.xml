@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's most excellent Majesty. The humble addresse of your Majesties most loyal subjects of the clergy in the county of Kent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94518</idno>
+            <idno type="STC">Wing T1516</idno>
+            <idno type="STC">Thomason 669.f.25[76]</idno>
+            <idno type="STC">ESTC R212594</idno>
+            <idno type="EEBO-CITATION">99871199</idno>
+            <idno type="PROQUEST">99871199</idno>
+            <idno type="VID">163881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163881)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's most excellent Majesty. The humble addresse of your Majesties most loyal subjects of the clergy in the county of Kent.</title>
+                  <author>Lee, John, 1607 or 8-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Lee of South-fleet [and 35 others].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "1660. Aug. 23."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  England --  Kent --  Early works to 1800.</term>
+               <term>Loyalty oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:163881:1" rendition="simple:additions"/>
+            <head>To the KINGS moſt Excellent Majeſty.</head>
+            <head type="sub">The Humble Addreſſe of your <hi>Majeſties</hi> moſt Loyal Subjects of the <hi>Clergy</hi> in the County of <hi>KENT.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S we cannot look, but with an holy amazement upon that Divine hand of Providence, which with moſt admirable and indiſcernable progreſſes hath reſtored your Sacred Majeſty to your undoubted Birthright, and into the arms and hearts of your loyal Subjects; ſo we conceive it to be our duty, to expreſs unto the world our abundant thankfulneſs to that omnipotent God, and teſtifie our joy in that miraculous and happy Reſtitution: It being evidently and eminently apparent, that not by might, nor by power, but by his Spirit hath the Lord brought you forth through variety of difficulties and oppoſitions, as our <hi>Zerubbabel,</hi> and hath <hi>made the Great Mountain a Plain</hi> before your Sacred <hi>feet;</hi> in whom we ſee concentred all thoſe Excellencies which we are confident will, through Gods mercy, make this Church and Nation under your Majeſties Government and protection compleatly happy.</p>
+            <p>And as we never did formerly make the leaſt Addreſſes to thoſe prodigious Uſurpers, which had involved this Church and Kingdom in divers Labyrinths of wo and miſery, and well-nigh blaſted the moſt-flouriſhing and <hi>Catholique Religion,</hi> — and the beſt conſtituted <hi>Monarchy</hi> upon Earth: So we muſt needs be ſenſible of this bleſſed alteration, under the warmth and ſpreading rayes of your Majeſties benigne and moſt auſpicious conſtellation, whereby our ſtifled hopes have recovered ſuch ſtrength, as to revive us into an expectation, that your incomparable piety and wiſdom will reſtore and eſtabliſh the purity of <hi>Religion,</hi> together with that Primitive and Apoſtolique Government which is moſt agreeable to the Word of God, whereby this glorious Church and Kingdom ſhall be again the aſtoniſhment of our adverſaries, and the rejoycing of all ſincere and faithfull Chriſtians, both at home and abroad. Wherein as you will appear the true <hi>Defender of the Faith,</hi> ſo it will remain as an indelible character, and eternal monument of your admirable wiſdom, and ſingular goodneſs.</p>
+            <p>And we cannot but with all demonſtrations of joy, and expreſſions of thankfulneſs to your Majeſty, bleſs and praiſe the God of Heaven, who hath put it into your Royall heart to appear ſo ſeaſonably and zealouſly in the Cauſe of God, againſt the Viciouſneſs and Prophaneneſs of this Age. And we daily pray, that God who hath ſtirred up your Divine Soul, will alſo enable your Royal Hands to obviate, and give a perfect check to thoſe Debauches which are ſo much a diſhonour to God, a ſcandal to the Nation, and a reproach to the Goſpel which we profeſs.</p>
+            <closer>And now, Dread Soveraign, in all humility we begg leave with our hearts and hands, unanimouſly and cheerfully to teſtifie and ſubſcribe our Obedience and Loyalty: And though our hands be weak, yet we ſhall lay forth our hearts in our prayers (which are the Churches beſt and only weapons) to the God of Heaven, That he (who in ſuch a continued <hi>ſeries</hi> of wonders, hath hitherto preſerved your Majeſty from the hands of your Enemies, and now reſtored you to your Regal Throne in Peace) will be pleaſed to bleſs you with length of dayes, and Crown you with his <hi>loving kindneſſe and tender mercies,</hi> and be <hi>a wall of fire round about you,</hi> to ſcare away all Foraign Invaders, and preſerve you in ſafety from Domeſtique Conſpiracies, and ſo faſten you as a nail in a ſure place, that your Throne being <hi>eſtabliſhed in righteouſ<g ref="char:EOLhyphen"/>neſſ,</hi> your Crown may never be ſhaken, till you change it for that Immarceſſible Crown of glory which is prepared in the higheſt Heavens for all thoſe <hi>that love the ſecond coming of the Lord JESUS.</hi>
+            </closer>
+         </div>
+         <div type="disposition">
+            <p>This <hi>Addreſſe</hi> was preſented and read to his Royal Majeſty, on Tueſday the 24 of this inſtant <hi>July,</hi> by ſeveral MINISTERS of the ſaid County, ſome of whoſe Names are hereunto annexed.</p>
+            <list>
+               <item>John Lee <hi>of</hi> South-fleet.</item>
+               <item>Thomas Morris <hi>of</hi> Aſh.</item>
+               <item>Robert Haſſelwood <hi>of</hi> Sutton <hi>at</hi> Hone.</item>
+               <item>Henry Cunningham <hi>of</hi> North-fleet.</item>
+               <item>Samuel Grymes <hi>of</hi> Hadlow.</item>
+               <item>Thomas Stanſall <hi>of</hi> Longfield.</item>
+               <item>Richard Boſſe <hi>of</hi> Seavenoke.</item>
+               <item>John Stevens <hi>of</hi> Seale.</item>
+               <item>Francis Collins <hi>of</hi> Norkhols.</item>
+               <item>Samuel Sharp <hi>of</hi> Sundridge.</item>
+               <item>John Beadle <hi>of</hi> Eynsford.</item>
+               <item>Walter Drury <hi>of</hi> Sandherſt.</item>
+               <item>John Cottingham <hi>of</hi> Halſted.</item>
+               <item>Robers Mills <hi>of</hi> Chelsfield.</item>
+               <item>James Hickford <hi>of</hi> Igtham.</item>
+               <item>Edward Clerke <hi>of</hi> Cheevening.</item>
+               <item>John Codd <hi>of</hi> Leyburn.</item>
+               <item>Thomas Brown <hi>of</hi> Farningham.</item>
+               <item>John Lingue <hi>of</hi> Yalden.</item>
+               <item>Iſaac Sanderſon <hi>of</hi> Plumſtead.</item>
+               <item>George Eves <hi>of</hi> Hartley.</item>
+               <item>James Peate <hi>of</hi> Bidborough.</item>
+               <item>Edward Maſter <hi>of</hi> Kingſdown.</item>
+               <item>John Stileman <hi>of</hi> Tunbridge.</item>
+               <item>William Liſter <hi>of</hi> Melton.</item>
+               <item>Thomas Plume <hi>of</hi> Greenwich.</item>
+               <item>Robert Litler <hi>of</hi> Deptford.</item>
+               <item>Thomas Depup <hi>of</hi> Crayford.</item>
+               <item>Thomas Smoult <hi>of</hi> Depup.</item>
+               <item>Edward Archbole <hi>of</hi> Trotteſcliffe.</item>
+               <item>Robert Beadle <hi>of</hi> Wilmington.</item>
+               <item>John Stacey <hi>of</hi> Rydley.</item>
+               <item>Thomas Lee <hi>of</hi> Leigh.</item>
+               <item>Thomas Jones <hi>of</hi> Nuſted.</item>
+               <item>Oliver North <hi>of</hi> Teſton.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
